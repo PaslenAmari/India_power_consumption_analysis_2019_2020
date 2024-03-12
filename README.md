@@ -22,7 +22,7 @@
 Визуализировали расположение городов из датасета на карте Индии:
 ![image](https://github.com/PaslenAmari/India_power_consumption_analysis_2019_2020/assets/106679149/6acf505c-790e-4187-8ef9-d99b34e37520)
 
-Посмотрим корреляцию через функцию corr() (через коэффициенты корреляции Пирсона):
+Посмотрели корреляцию через функцию corr() (через коэффициенты корреляции Пирсона):
 ![image](https://github.com/PaslenAmari/India_power_consumption_analysis_2019_2020/assets/106679149/042dbb99-c61a-4923-aa1e-a2ebcb2bee06)
 ![image](https://github.com/PaslenAmari/India_power_consumption_analysis_2019_2020/assets/106679149/b9c8284e-ce63-4446-9018-a038d02f06f0)
 
