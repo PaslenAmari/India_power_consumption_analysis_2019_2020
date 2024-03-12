@@ -1,8 +1,8 @@
 Анализ потребления электроэнергии в Индии (2019-2020гг)
 датасет с kaggle
 
-Посмотрели пропущенные значения по городам Индии из датасета:
-![image](https://github.com/PaslenAmari/India_power_consumption_analysis_2019_2020/assets/106679149/3f71af84-51f4-4ec1-9212-3661439de915)
+Посмотрели пропущенные значения по городам Индии из датасета.
+
 Визаулизировали для перепроверки:
 ![image](https://github.com/PaslenAmari/India_power_consumption_analysis_2019_2020/assets/106679149/d9f3f804-1e16-46ce-b63d-cbc056ec7d82)
 
